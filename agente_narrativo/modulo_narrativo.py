@@ -9,7 +9,7 @@ class AgenteNarrativo:
         self.memoria = MemoriaNarrativa()
         self.esquema = EsquemaConceitual()
         self.identidade = IdentidadeNarrativa()
-        self.interpretador = ModuloInterpretacao(self.memoria)
+        self.interpretador = ModuloInterpretacao(self)
         self.redescritor = ModuloRedescricao(self.memoria, self.esquema, self.identidade)
         self.contador_interacoes = 0
         self.intervalo_redescricao = 5  # redescrever a cada 5 interações
@@ -40,3 +40,45 @@ class AgenteNarrativo:
 
     def reconstruir_historia(self):
         return self.memoria.reconstruir_historia()
+
+    def gerar_prompt_emergente(self, entrada_utilizador):
+        # 🧠 História recente
+        historia = self.memoria.reconstruir_historia()
+
+        # 🕸️ Conceitos em uso
+        conceitos = self.esquema.obter_conceitos()
+        relacoes = self.esquema.obter_relacoes()
+        bloco_conceitos = "\n".join([f"- {c}" for c in conceitos])
+        bloco_relacoes = "\n".join([
+            f"{origem} {dados['tipo']} {destino}"
+            for origem, destino, dados in relacoes
+        ])
+
+        # 🧬 Identidade
+        identidade = self.identidade.obter_identidade_atual()
+        bloco_identidade = ""
+        if identidade["metanarrativas"]:
+            bloco_identidade += "Metanarrativas recentes:\n"
+            bloco_identidade += "\n".join(f"• {m['descricao']}" for m in identidade["metanarrativas"])
+        if identidade["tensoes"]:
+            bloco_identidade += "\nTensões em aberto:\n"
+            bloco_identidade += "\n".join(f"• {t['descricao']}" for t in identidade["tensoes"])
+
+        prompt = f"""
+Memória narrativa:
+{historia}
+
+Conceitos em uso:
+{bloco_conceitos}
+
+Relações conceptuais:
+{bloco_relacoes}
+
+Identidade narrativa:
+{bloco_identidade}
+
+Novo evento:
+{entrada_utilizador}
+""".strip()
+
+        return prompt
