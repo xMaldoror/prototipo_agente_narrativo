@@ -2,6 +2,1633 @@
     "directed": true,
     "multigraph": false,
     "graph": {},
-    "nodes": [],
+    "nodes": [
+        {
+            "historico": [
+                {
+                    "definicao": "Uso narrativo do conceito 'As'",
+                    "timestamp": "2025-08-05T20:30:39.213240",
+                    "contexto": "Extraído da interação: Hoje falei com cidadãos sobre responsabilidade Con..."
+                },
+                {
+                    "definicao": "Uso narrativo do conceito 'As'",
+                    "timestamp": "2025-08-05T20:38:23.460964",
+                    "contexto": "Extraído da interação: Percebi que liberdade nem sempre é compreendida do..."
+                },
+                {
+                    "definicao": "Uso narrativo do conceito 'As'",
+                    "timestamp": "2025-08-05T20:42:02.138029",
+                    "contexto": "Extraído da interação: A injustiça surge quando ignoramos a história dos ..."
+                },
+                {
+                    "definicao": "Uso narrativo do conceito 'As'",
+                    "timestamp": "2025-08-05T20:46:51.886082",
+                    "contexto": "Extraído da interação: Revi episódios em que fui imparcial, e senti contr..."
+                },
+                {
+                    "definicao": "Uso narrativo do conceito 'As'",
+                    "timestamp": "2025-08-05T20:52:05.705937",
+                    "contexto": "Extraído da interação: A minha visão de justiça mudou depois de ouvir out..."
+                }
+            ],
+            "contexto": [
+                "Extraído da interação: Hoje falei com cidadãos sobre responsabilidade Con...",
+                "Extraído da interação: Percebi que liberdade nem sempre é compreendida do...",
+                "Extraído da interação: A injustiça surge quando ignoramos a história dos ...",
+                "Extraído da interação: Revi episódios em que fui imparcial, e senti contr...",
+                "Extraído da interação: A minha visão de justiça mudou depois de ouvir out..."
+            ],
+            "id": "As"
+        },
+        {
+            "historico": [
+                {
+                    "definicao": "Uso narrativo do conceito 'Ela'",
+                    "timestamp": "2025-08-05T20:30:39.526275",
+                    "contexto": "Extraído da interação: Hoje falei com cidadãos sobre responsabilidade Con..."
+                },
+                {
+                    "definicao": "Uso narrativo do conceito 'Ela'",
+                    "timestamp": "2025-08-05T20:52:05.745689",
+                    "contexto": "Extraído da interação: A minha visão de justiça mudou depois de ouvir out..."
+                }
+            ],
+            "contexto": [
+                "Extraído da interação: Hoje falei com cidadãos sobre responsabilidade Con...",
+                "Extraído da interação: A minha visão de justiça mudou depois de ouvir out..."
+            ],
+            "id": "Ela"
+        },
+        {
+            "historico": [
+                {
+                    "definicao": "Uso narrativo do conceito 'Em'",
+                    "timestamp": "2025-08-05T20:30:39.526600",
+                    "contexto": "Extraído da interação: Hoje falei com cidadãos sobre responsabilidade Con..."
+                },
+                {
+                    "definicao": "Uso narrativo do conceito 'Em'",
+                    "timestamp": "2025-08-05T20:52:05.686773",
+                    "contexto": "Extraído da interação: A minha visão de justiça mudou depois de ouvir out..."
+                }
+            ],
+            "contexto": [
+                "Extraído da interação: Hoje falei com cidadãos sobre responsabilidade Con...",
+                "Extraído da interação: A minha visão de justiça mudou depois de ouvir out..."
+            ],
+            "id": "Em"
+        },
+        {
+            "historico": [
+                {
+                    "definicao": "Uso narrativo do conceito 'Conhecimento'",
+                    "timestamp": "2025-08-05T20:30:39.526930",
+                    "contexto": "Extraído da interação: Hoje falei com cidadãos sobre responsabilidade Con..."
+                },
+                {
+                    "definicao": "Uso narrativo do conceito 'Conhecimento'",
+                    "timestamp": "2025-08-05T20:52:05.702377",
+                    "contexto": "Extraído da interação: A minha visão de justiça mudou depois de ouvir out..."
+                }
+            ],
+            "contexto": [
+                "Extraído da interação: Hoje falei com cidadãos sobre responsabilidade Con...",
+                "Extraído da interação: A minha visão de justiça mudou depois de ouvir out..."
+            ],
+            "id": "Conhecimento"
+        },
+        {
+            "historico": [
+                {
+                    "definicao": "Uso narrativo do conceito 'Estes'",
+                    "timestamp": "2025-08-05T20:30:39.527282",
+                    "contexto": "Extraído da interação: Hoje falei com cidadãos sobre responsabilidade Con..."
+                },
+                {
+                    "definicao": "Uso narrativo do conceito 'Estes'",
+                    "timestamp": "2025-08-05T20:52:05.772532",
+                    "contexto": "Extraído da interação: A minha visão de justiça mudou depois de ouvir out..."
+                }
+            ],
+            "contexto": [
+                "Extraído da interação: Hoje falei com cidadãos sobre responsabilidade Con...",
+                "Extraído da interação: A minha visão de justiça mudou depois de ouvir out..."
+            ],
+            "id": "Estes"
+        },
+        {
+            "historico": [
+                {
+                    "definicao": "Uso narrativo do conceito 'Por'",
+                    "timestamp": "2025-08-05T20:30:39.527664",
+                    "contexto": "Extraído da interação: Hoje falei com cidadãos sobre responsabilidade Con..."
+                },
+                {
+                    "definicao": "Uso narrativo do conceito 'Por'",
+                    "timestamp": "2025-08-05T20:52:05.722384",
+                    "contexto": "Extraído da interação: A minha visão de justiça mudou depois de ouvir out..."
+                }
+            ],
+            "contexto": [
+                "Extraído da interação: Hoje falei com cidadãos sobre responsabilidade Con...",
+                "Extraído da interação: A minha visão de justiça mudou depois de ouvir out..."
+            ],
+            "id": "Por"
+        },
+        {
+            "historico": [
+                {
+                    "definicao": "Uso narrativo do conceito 'Ou'",
+                    "timestamp": "2025-08-05T20:30:39.528031",
+                    "contexto": "Extraído da interação: Hoje falei com cidadãos sobre responsabilidade Con..."
+                },
+                {
+                    "definicao": "Uso narrativo do conceito 'Ou'",
+                    "timestamp": "2025-08-05T20:52:05.747655",
+                    "contexto": "Extraído da interação: A minha visão de justiça mudou depois de ouvir out..."
+                }
+            ],
+            "contexto": [
+                "Extraído da interação: Hoje falei com cidadãos sobre responsabilidade Con...",
+                "Extraído da interação: A minha visão de justiça mudou depois de ouvir out..."
+            ],
+            "id": "Ou"
+        },
+        {
+            "historico": [
+                {
+                    "definicao": "Uso narrativo do conceito 'Hoje'",
+                    "timestamp": "2025-08-05T20:30:39.528422",
+                    "contexto": "Extraído da interação: Hoje falei com cidadãos sobre responsabilidade Con..."
+                },
+                {
+                    "definicao": "Uso narrativo do conceito 'Hoje'",
+                    "timestamp": "2025-08-05T20:52:05.670527",
+                    "contexto": "Extraído da interação: A minha visão de justiça mudou depois de ouvir out..."
+                }
+            ],
+            "contexto": [
+                "Extraído da interação: Hoje falei com cidadãos sobre responsabilidade Con...",
+                "Extraído da interação: A minha visão de justiça mudou depois de ouvir out..."
+            ],
+            "id": "Hoje"
+        },
+        {
+            "historico": [
+                {
+                    "definicao": "Uso narrativo do conceito 'Neste'",
+                    "timestamp": "2025-08-05T20:30:39.528830",
+                    "contexto": "Extraído da interação: Hoje falei com cidadãos sobre responsabilidade Con..."
+                },
+                {
+                    "definicao": "Uso narrativo do conceito 'Neste'",
+                    "timestamp": "2025-08-05T20:52:05.821316",
+                    "contexto": "Extraído da interação: A minha visão de justiça mudou depois de ouvir out..."
+                }
+            ],
+            "contexto": [
+                "Extraído da interação: Hoje falei com cidadãos sobre responsabilidade Con...",
+                "Extraído da interação: A minha visão de justiça mudou depois de ouvir out..."
+            ],
+            "id": "Neste"
+        },
+        {
+            "historico": [
+                {
+                    "definicao": "Uso narrativo do conceito 'Durante'",
+                    "timestamp": "2025-08-05T20:30:39.529256",
+                    "contexto": "Extraído da interação: Hoje falei com cidadãos sobre responsabilidade Con..."
+                },
+                {
+                    "definicao": "Uso narrativo do conceito 'Durante'",
+                    "timestamp": "2025-08-05T20:52:05.690154",
+                    "contexto": "Extraído da interação: A minha visão de justiça mudou depois de ouvir out..."
+                }
+            ],
+            "contexto": [
+                "Extraído da interação: Hoje falei com cidadãos sobre responsabilidade Con...",
+                "Extraído da interação: A minha visão de justiça mudou depois de ouvir out..."
+            ],
+            "id": "Durante"
+        },
+        {
+            "historico": [
+                {
+                    "definicao": "Uso narrativo do conceito 'Nova'",
+                    "timestamp": "2025-08-05T20:30:39.529681",
+                    "contexto": "Extraído da interação: Hoje falei com cidadãos sobre responsabilidade Con..."
+                },
+                {
+                    "definicao": "Uso narrativo do conceito 'Nova'",
+                    "timestamp": "2025-08-05T20:52:05.816708",
+                    "contexto": "Extraído da interação: A minha visão de justiça mudou depois de ouvir out..."
+                }
+            ],
+            "contexto": [
+                "Extraído da interação: Hoje falei com cidadãos sobre responsabilidade Con...",
+                "Extraído da interação: A minha visão de justiça mudou depois de ouvir out..."
+            ],
+            "id": "Nova"
+        },
+        {
+            "historico": [
+                {
+                    "definicao": "Uso narrativo do conceito 'Isso'",
+                    "timestamp": "2025-08-05T20:30:39.530127",
+                    "contexto": "Extraído da interação: Hoje falei com cidadãos sobre responsabilidade Con..."
+                },
+                {
+                    "definicao": "Uso narrativo do conceito 'Isso'",
+                    "timestamp": "2025-08-05T20:52:05.753813",
+                    "contexto": "Extraído da interação: A minha visão de justiça mudou depois de ouvir out..."
+                }
+            ],
+            "contexto": [
+                "Extraído da interação: Hoje falei com cidadãos sobre responsabilidade Con...",
+                "Extraído da interação: A minha visão de justiça mudou depois de ouvir out..."
+            ],
+            "id": "Isso"
+        },
+        {
+            "historico": [
+                {
+                    "definicao": "Uso narrativo do conceito 'With'",
+                    "timestamp": "2025-08-05T20:38:23.461511",
+                    "contexto": "Extraído da interação: Percebi que liberdade nem sempre é compreendida do..."
+                },
+                {
+                    "definicao": "Uso narrativo do conceito 'With'",
+                    "timestamp": "2025-08-05T20:52:05.695363",
+                    "contexto": "Extraído da interação: A minha visão de justiça mudou depois de ouvir out..."
+                }
+            ],
+            "contexto": [
+                "Extraído da interação: Percebi que liberdade nem sempre é compreendida do...",
+                "Extraído da interação: A minha visão de justiça mudou depois de ouvir out..."
+            ],
+            "id": "With"
+        },
+        {
+            "historico": [
+                {
+                    "definicao": "Uso narrativo do conceito 'In'",
+                    "timestamp": "2025-08-05T20:38:23.462026",
+                    "contexto": "Extraído da interação: Percebi que liberdade nem sempre é compreendida do..."
+                },
+                {
+                    "definicao": "Uso narrativo do conceito 'In'",
+                    "timestamp": "2025-08-05T20:42:02.135460",
+                    "contexto": "Extraído da interação: A injustiça surge quando ignoramos a história dos ..."
+                },
+                {
+                    "definicao": "Uso narrativo do conceito 'In'",
+                    "timestamp": "2025-08-05T20:46:51.874502",
+                    "contexto": "Extraído da interação: Revi episódios em que fui imparcial, e senti contr..."
+                },
+                {
+                    "definicao": "Uso narrativo do conceito 'In'",
+                    "timestamp": "2025-08-05T20:52:05.809830",
+                    "contexto": "Extraído da interação: A minha visão de justiça mudou depois de ouvir out..."
+                }
+            ],
+            "contexto": [
+                "Extraído da interação: Percebi que liberdade nem sempre é compreendida do...",
+                "Extraído da interação: A injustiça surge quando ignoramos a história dos ...",
+                "Extraído da interação: Revi episódios em que fui imparcial, e senti contr...",
+                "Extraído da interação: A minha visão de justiça mudou depois de ouvir out..."
+            ],
+            "id": "In"
+        },
+        {
+            "historico": [
+                {
+                    "definicao": "Uso narrativo do conceito 'They'",
+                    "timestamp": "2025-08-05T20:38:23.462541",
+                    "contexto": "Extraído da interação: Percebi que liberdade nem sempre é compreendida do..."
+                },
+                {
+                    "definicao": "Uso narrativo do conceito 'They'",
+                    "timestamp": "2025-08-05T20:42:02.129923",
+                    "contexto": "Extraído da interação: A injustiça surge quando ignoramos a história dos ..."
+                },
+                {
+                    "definicao": "Uso narrativo do conceito 'They'",
+                    "timestamp": "2025-08-05T20:46:51.858060",
+                    "contexto": "Extraído da interação: Revi episódios em que fui imparcial, e senti contr..."
+                },
+                {
+                    "definicao": "Uso narrativo do conceito 'They'",
+                    "timestamp": "2025-08-05T20:52:05.789753",
+                    "contexto": "Extraído da interação: A minha visão de justiça mudou depois de ouvir out..."
+                }
+            ],
+            "contexto": [
+                "Extraído da interação: Percebi que liberdade nem sempre é compreendida do...",
+                "Extraído da interação: A injustiça surge quando ignoramos a história dos ...",
+                "Extraído da interação: Revi episódios em que fui imparcial, e senti contr...",
+                "Extraído da interação: A minha visão de justiça mudou depois de ouvir out..."
+            ],
+            "id": "They"
+        },
+        {
+            "historico": [
+                {
+                    "definicao": "Uso narrativo do conceito 'The'",
+                    "timestamp": "2025-08-05T20:38:23.463092",
+                    "contexto": "Extraído da interação: Percebi que liberdade nem sempre é compreendida do..."
+                },
+                {
+                    "definicao": "Uso narrativo do conceito 'The'",
+                    "timestamp": "2025-08-05T20:42:02.132990",
+                    "contexto": "Extraído da interação: A injustiça surge quando ignoramos a história dos ..."
+                },
+                {
+                    "definicao": "Uso narrativo do conceito 'The'",
+                    "timestamp": "2025-08-05T20:46:51.862877",
+                    "contexto": "Extraído da interação: Revi episódios em que fui imparcial, e senti contr..."
+                },
+                {
+                    "definicao": "Uso narrativo do conceito 'The'",
+                    "timestamp": "2025-08-05T20:52:05.794137",
+                    "contexto": "Extraído da interação: A minha visão de justiça mudou depois de ouvir out..."
+                }
+            ],
+            "contexto": [
+                "Extraído da interação: Percebi que liberdade nem sempre é compreendida do...",
+                "Extraído da interação: A injustiça surge quando ignoramos a história dos ...",
+                "Extraído da interação: Revi episódios em que fui imparcial, e senti contr...",
+                "Extraído da interação: A minha visão de justiça mudou depois de ouvir out..."
+            ],
+            "id": "The"
+        },
+        {
+            "historico": [
+                {
+                    "definicao": "Uso narrativo do conceito 'Her'",
+                    "timestamp": "2025-08-05T20:38:23.463655",
+                    "contexto": "Extraído da interação: Percebi que liberdade nem sempre é compreendida do..."
+                },
+                {
+                    "definicao": "Uso narrativo do conceito 'Her'",
+                    "timestamp": "2025-08-05T20:42:02.137172",
+                    "contexto": "Extraído da interação: A injustiça surge quando ignoramos a história dos ..."
+                },
+                {
+                    "definicao": "Uso narrativo do conceito 'Her'",
+                    "timestamp": "2025-08-05T20:46:51.883159",
+                    "contexto": "Extraído da interação: Revi episódios em que fui imparcial, e senti contr..."
+                },
+                {
+                    "definicao": "Uso narrativo do conceito 'Her'",
+                    "timestamp": "2025-08-05T20:52:05.704157",
+                    "contexto": "Extraído da interação: A minha visão de justiça mudou depois de ouvir out..."
+                }
+            ],
+            "contexto": [
+                "Extraído da interação: Percebi que liberdade nem sempre é compreendida do...",
+                "Extraído da interação: A injustiça surge quando ignoramos a história dos ...",
+                "Extraído da interação: Revi episódios em que fui imparcial, e senti contr...",
+                "Extraído da interação: A minha visão de justiça mudou depois de ouvir out..."
+            ],
+            "id": "Her"
+        },
+        {
+            "historico": [
+                {
+                    "definicao": "Uso narrativo do conceito 'Percebi'",
+                    "timestamp": "2025-08-05T20:38:23.464231",
+                    "contexto": "Extraído da interação: Percebi que liberdade nem sempre é compreendida do..."
+                },
+                {
+                    "definicao": "Uso narrativo do conceito 'Percebi'",
+                    "timestamp": "2025-08-05T20:52:05.683474",
+                    "contexto": "Extraído da interação: A minha visão de justiça mudou depois de ouvir out..."
+                }
+            ],
+            "contexto": [
+                "Extraído da interação: Percebi que liberdade nem sempre é compreendida do...",
+                "Extraído da interação: A minha visão de justiça mudou depois de ouvir out..."
+            ],
+            "id": "Percebi"
+        },
+        {
+            "historico": [
+                {
+                    "definicao": "Uso narrativo do conceito 'It'",
+                    "timestamp": "2025-08-05T20:38:23.464834",
+                    "contexto": "Extraído da interação: Percebi que liberdade nem sempre é compreendida do..."
+                },
+                {
+                    "definicao": "Uso narrativo do conceito 'It'",
+                    "timestamp": "2025-08-05T20:42:02.147412",
+                    "contexto": "Extraído da interação: A injustiça surge quando ignoramos a história dos ..."
+                },
+                {
+                    "definicao": "Uso narrativo do conceito 'It'",
+                    "timestamp": "2025-08-05T20:46:51.893507",
+                    "contexto": "Extraído da interação: Revi episódios em que fui imparcial, e senti contr..."
+                },
+                {
+                    "definicao": "Uso narrativo do conceito 'It'",
+                    "timestamp": "2025-08-05T20:52:05.759961",
+                    "contexto": "Extraído da interação: A minha visão de justiça mudou depois de ouvir out..."
+                }
+            ],
+            "contexto": [
+                "Extraído da interação: Percebi que liberdade nem sempre é compreendida do...",
+                "Extraído da interação: A injustiça surge quando ignoramos a história dos ...",
+                "Extraído da interação: Revi episódios em que fui imparcial, e senti contr...",
+                "Extraído da interação: A minha visão de justiça mudou depois de ouvir out..."
+            ],
+            "id": "It"
+        },
+        {
+            "historico": [
+                {
+                    "definicao": "Uso narrativo do conceito 'Based'",
+                    "timestamp": "2025-08-05T20:38:23.465456",
+                    "contexto": "Extraído da interação: Percebi que liberdade nem sempre é compreendida do..."
+                },
+                {
+                    "definicao": "Uso narrativo do conceito 'Based'",
+                    "timestamp": "2025-08-05T20:52:05.685114",
+                    "contexto": "Extraído da interação: A minha visão de justiça mudou depois de ouvir out..."
+                }
+            ],
+            "contexto": [
+                "Extraído da interação: Percebi que liberdade nem sempre é compreendida do...",
+                "Extraído da interação: A minha visão de justiça mudou depois de ouvir out..."
+            ],
+            "id": "Based"
+        },
+        {
+            "historico": [
+                {
+                    "definicao": "Uso narrativo do conceito 'Maria'",
+                    "timestamp": "2025-08-05T20:38:23.466079",
+                    "contexto": "Extraído da interação: Percebi que liberdade nem sempre é compreendida do..."
+                },
+                {
+                    "definicao": "Uso narrativo do conceito 'Maria'",
+                    "timestamp": "2025-08-05T20:52:05.798578",
+                    "contexto": "Extraído da interação: A minha visão de justiça mudou depois de ouvir out..."
+                }
+            ],
+            "contexto": [
+                "Extraído da interação: Percebi que liberdade nem sempre é compreendida do...",
+                "Extraído da interação: A minha visão de justiça mudou depois de ouvir out..."
+            ],
+            "id": "Maria"
+        },
+        {
+            "historico": [
+                {
+                    "definicao": "Uso narrativo do conceito 'Each'",
+                    "timestamp": "2025-08-05T20:38:23.466712",
+                    "contexto": "Extraído da interação: Percebi que liberdade nem sempre é compreendida do..."
+                },
+                {
+                    "definicao": "Uso narrativo do conceito 'Each'",
+                    "timestamp": "2025-08-05T20:46:51.896552",
+                    "contexto": "Extraído da interação: Revi episódios em que fui imparcial, e senti contr..."
+                },
+                {
+                    "definicao": "Uso narrativo do conceito 'Each'",
+                    "timestamp": "2025-08-05T20:52:05.716825",
+                    "contexto": "Extraído da interação: A minha visão de justiça mudou depois de ouvir out..."
+                }
+            ],
+            "contexto": [
+                "Extraído da interação: Percebi que liberdade nem sempre é compreendida do...",
+                "Extraído da interação: Revi episódios em que fui imparcial, e senti contr...",
+                "Extraído da interação: A minha visão de justiça mudou depois de ouvir out..."
+            ],
+            "id": "Each"
+        },
+        {
+            "historico": [
+                {
+                    "definicao": "Uso narrativo do conceito 'And'",
+                    "timestamp": "2025-08-05T20:38:23.467370",
+                    "contexto": "Extraído da interação: Percebi que liberdade nem sempre é compreendida do..."
+                },
+                {
+                    "definicao": "Uso narrativo do conceito 'And'",
+                    "timestamp": "2025-08-05T20:52:05.698840",
+                    "contexto": "Extraído da interação: A minha visão de justiça mudou depois de ouvir out..."
+                }
+            ],
+            "contexto": [
+                "Extraído da interação: Percebi que liberdade nem sempre é compreendida do...",
+                "Extraído da interação: A minha visão de justiça mudou depois de ouvir out..."
+            ],
+            "id": "And"
+        },
+        {
+            "historico": [
+                {
+                    "definicao": "Uso narrativo do conceito 'This'",
+                    "timestamp": "2025-08-05T20:42:02.127748",
+                    "contexto": "Extraído da interação: A injustiça surge quando ignoramos a história dos ..."
+                },
+                {
+                    "definicao": "Uso narrativo do conceito 'This'",
+                    "timestamp": "2025-08-05T20:46:51.853396",
+                    "contexto": "Extraído da interação: Revi episódios em que fui imparcial, e senti contr..."
+                },
+                {
+                    "definicao": "Uso narrativo do conceito 'This'",
+                    "timestamp": "2025-08-05T20:52:05.783257",
+                    "contexto": "Extraído da interação: A minha visão de justiça mudou depois de ouvir out..."
+                }
+            ],
+            "contexto": [
+                "Extraído da interação: A injustiça surge quando ignoramos a história dos ...",
+                "Extraído da interação: Revi episódios em que fui imparcial, e senti contr...",
+                "Extraído da interação: A minha visão de justiça mudou depois de ouvir out..."
+            ],
+            "id": "This"
+        },
+        {
+            "historico": [
+                {
+                    "definicao": "Uso narrativo do conceito 'There'",
+                    "timestamp": "2025-08-05T20:42:02.128478",
+                    "contexto": "Extraído da interação: A injustiça surge quando ignoramos a história dos ..."
+                },
+                {
+                    "definicao": "Uso narrativo do conceito 'There'",
+                    "timestamp": "2025-08-05T20:52:05.668968",
+                    "contexto": "Extraído da interação: A minha visão de justiça mudou depois de ouvir out..."
+                }
+            ],
+            "contexto": [
+                "Extraído da interação: A injustiça surge quando ignoramos a história dos ...",
+                "Extraído da interação: A minha visão de justiça mudou depois de ouvir out..."
+            ],
+            "id": "There"
+        },
+        {
+            "historico": [
+                {
+                    "definicao": "Uso narrativo do conceito 'An'",
+                    "timestamp": "2025-08-05T20:42:02.129197",
+                    "contexto": "Extraído da interação: A injustiça surge quando ignoramos a história dos ..."
+                },
+                {
+                    "definicao": "Uso narrativo do conceito 'An'",
+                    "timestamp": "2025-08-05T20:52:05.728151",
+                    "contexto": "Extraído da interação: A minha visão de justiça mudou depois de ouvir out..."
+                }
+            ],
+            "contexto": [
+                "Extraído da interação: A injustiça surge quando ignoramos a história dos ...",
+                "Extraído da interação: A minha visão de justiça mudou depois de ouvir out..."
+            ],
+            "id": "An"
+        },
+        {
+            "historico": [
+                {
+                    "definicao": "Uso narrativo do conceito 'Personal'",
+                    "timestamp": "2025-08-05T20:42:02.130716",
+                    "contexto": "Extraído da interação: A injustiça surge quando ignoramos a história dos ..."
+                },
+                {
+                    "definicao": "Uso narrativo do conceito 'Personal'",
+                    "timestamp": "2025-08-05T20:46:51.859267",
+                    "contexto": "Extraído da interação: Revi episódios em que fui imparcial, e senti contr..."
+                },
+                {
+                    "definicao": "Uso narrativo do conceito 'Personal'",
+                    "timestamp": "2025-08-05T20:52:05.730069",
+                    "contexto": "Extraído da interação: A minha visão de justiça mudou depois de ouvir out..."
+                }
+            ],
+            "contexto": [
+                "Extraído da interação: A injustiça surge quando ignoramos a história dos ...",
+                "Extraído da interação: Revi episódios em que fui imparcial, e senti contr...",
+                "Extraído da interação: A minha visão de justiça mudou depois de ouvir out..."
+            ],
+            "id": "Personal"
+        },
+        {
+            "historico": [
+                {
+                    "definicao": "Uso narrativo do conceito 'Identidade'",
+                    "timestamp": "2025-08-05T20:42:02.131457",
+                    "contexto": "Extraído da interação: A injustiça surge quando ignoramos a história dos ..."
+                },
+                {
+                    "definicao": "Uso narrativo do conceito 'Identidade'",
+                    "timestamp": "2025-08-05T20:52:05.733962",
+                    "contexto": "Extraído da interação: A minha visão de justiça mudou depois de ouvir out..."
+                }
+            ],
+            "contexto": [
+                "Extraído da interação: A injustiça surge quando ignoramos a história dos ...",
+                "Extraído da interação: A minha visão de justiça mudou depois de ouvir out..."
+            ],
+            "id": "Identidade"
+        },
+        {
+            "historico": [
+                {
+                    "definicao": "Uso narrativo do conceito 'New'",
+                    "timestamp": "2025-08-05T20:42:02.132216",
+                    "contexto": "Extraído da interação: A injustiça surge quando ignoramos a história dos ..."
+                },
+                {
+                    "definicao": "Uso narrativo do conceito 'New'",
+                    "timestamp": "2025-08-05T20:52:05.673728",
+                    "contexto": "Extraído da interação: A minha visão de justiça mudou depois de ouvir out..."
+                }
+            ],
+            "contexto": [
+                "Extraído da interação: A injustiça surge quando ignoramos a história dos ...",
+                "Extraído da interação: A minha visão de justiça mudou depois de ouvir out..."
+            ],
+            "id": "New"
+        },
+        {
+            "historico": [
+                {
+                    "definicao": "Uso narrativo do conceito 'Sofia'",
+                    "timestamp": "2025-08-05T20:42:02.133794",
+                    "contexto": "Extraído da interação: A injustiça surge quando ignoramos a história dos ..."
+                },
+                {
+                    "definicao": "Uso narrativo do conceito 'Sofia'",
+                    "timestamp": "2025-08-05T20:46:51.864125",
+                    "contexto": "Extraído da interação: Revi episódios em que fui imparcial, e senti contr..."
+                },
+                {
+                    "definicao": "Uso narrativo do conceito 'Sofia'",
+                    "timestamp": "2025-08-05T20:52:05.697097",
+                    "contexto": "Extraído da interação: A minha visão de justiça mudou depois de ouvir out..."
+                }
+            ],
+            "contexto": [
+                "Extraído da interação: A injustiça surge quando ignoramos a história dos ...",
+                "Extraído da interação: Revi episódios em que fui imparcial, e senti contr...",
+                "Extraído da interação: A minha visão de justiça mudou depois de ouvir out..."
+            ],
+            "id": "Sofia"
+        },
+        {
+            "historico": [
+                {
+                    "definicao": "Uso narrativo do conceito 'One'",
+                    "timestamp": "2025-08-05T20:42:02.134632",
+                    "contexto": "Extraído da interação: A injustiça surge quando ignoramos a história dos ..."
+                },
+                {
+                    "definicao": "Uso narrativo do conceito 'One'",
+                    "timestamp": "2025-08-05T20:46:51.867896",
+                    "contexto": "Extraído da interação: Revi episódios em que fui imparcial, e senti contr..."
+                },
+                {
+                    "definicao": "Uso narrativo do conceito 'One'",
+                    "timestamp": "2025-08-05T20:52:05.800807",
+                    "contexto": "Extraído da interação: A minha visão de justiça mudou depois de ouvir out..."
+                }
+            ],
+            "contexto": [
+                "Extraído da interação: A injustiça surge quando ignoramos a história dos ...",
+                "Extraído da interação: Revi episódios em que fui imparcial, e senti contr...",
+                "Extraído da interação: A minha visão de justiça mudou depois de ouvir out..."
+            ],
+            "id": "One"
+        },
+        {
+            "historico": [
+                {
+                    "definicao": "Uso narrativo do conceito 'Relações'",
+                    "timestamp": "2025-08-05T20:42:02.136297",
+                    "contexto": "Extraído da interação: A injustiça surge quando ignoramos a história dos ..."
+                },
+                {
+                    "definicao": "Uso narrativo do conceito 'Relações'",
+                    "timestamp": "2025-08-05T20:46:51.878632",
+                    "contexto": "Extraído da interação: Revi episódios em que fui imparcial, e senti contr..."
+                },
+                {
+                    "definicao": "Uso narrativo do conceito 'Relações'",
+                    "timestamp": "2025-08-05T20:52:05.737833",
+                    "contexto": "Extraído da interação: A minha visão de justiça mudou depois de ouvir out..."
+                }
+            ],
+            "contexto": [
+                "Extraído da interação: A injustiça surge quando ignoramos a história dos ...",
+                "Extraído da interação: Revi episódios em que fui imparcial, e senti contr...",
+                "Extraído da interação: A minha visão de justiça mudou depois de ouvir out..."
+            ],
+            "id": "Relações"
+        },
+        {
+            "historico": [
+                {
+                    "definicao": "Uso narrativo do conceito 'História'",
+                    "timestamp": "2025-08-05T20:42:02.138892",
+                    "contexto": "Extraído da interação: A injustiça surge quando ignoramos a história dos ..."
+                },
+                {
+                    "definicao": "Uso narrativo do conceito 'História'",
+                    "timestamp": "2025-08-05T20:52:05.707723",
+                    "contexto": "Extraído da interação: A minha visão de justiça mudou depois de ouvir out..."
+                }
+            ],
+            "contexto": [
+                "Extraído da interação: A injustiça surge quando ignoramos a história dos ...",
+                "Extraído da interação: A minha visão de justiça mudou depois de ouvir out..."
+            ],
+            "id": "História"
+        },
+        {
+            "historico": [
+                {
+                    "definicao": "Uso narrativo do conceito 'Identity'",
+                    "timestamp": "2025-08-05T20:42:02.139769",
+                    "contexto": "Extraído da interação: A injustiça surge quando ignoramos a história dos ..."
+                },
+                {
+                    "definicao": "Uso narrativo do conceito 'Identity'",
+                    "timestamp": "2025-08-05T20:52:05.709576",
+                    "contexto": "Extraído da interação: A minha visão de justiça mudou depois de ouvir out..."
+                }
+            ],
+            "contexto": [
+                "Extraído da interação: A injustiça surge quando ignoramos a história dos ...",
+                "Extraído da interação: A minha visão de justiça mudou depois de ouvir out..."
+            ],
+            "id": "Identity"
+        },
+        {
+            "historico": [
+                {
+                    "definicao": "Uso narrativo do conceito 'By'",
+                    "timestamp": "2025-08-05T20:42:02.140661",
+                    "contexto": "Extraído da interação: A injustiça surge quando ignoramos a história dos ..."
+                },
+                {
+                    "definicao": "Uso narrativo do conceito 'By'",
+                    "timestamp": "2025-08-05T20:46:51.887552",
+                    "contexto": "Extraído da interação: Revi episódios em que fui imparcial, e senti contr..."
+                },
+                {
+                    "definicao": "Uso narrativo do conceito 'By'",
+                    "timestamp": "2025-08-05T20:52:05.680195",
+                    "contexto": "Extraído da interação: A minha visão de justiça mudou depois de ouvir out..."
+                }
+            ],
+            "contexto": [
+                "Extraído da interação: A injustiça surge quando ignoramos a história dos ...",
+                "Extraído da interação: Revi episódios em que fui imparcial, e senti contr...",
+                "Extraído da interação: A minha visão de justiça mudou depois de ouvir out..."
+            ],
+            "id": "By"
+        },
+        {
+            "historico": [
+                {
+                    "definicao": "Uso narrativo do conceito 'Criar'",
+                    "timestamp": "2025-08-05T20:42:02.141567",
+                    "contexto": "Extraído da interação: A injustiça surge quando ignoramos a história dos ..."
+                },
+                {
+                    "definicao": "Uso narrativo do conceito 'Criar'",
+                    "timestamp": "2025-08-05T20:46:51.889028",
+                    "contexto": "Extraído da interação: Revi episódios em que fui imparcial, e senti contr..."
+                },
+                {
+                    "definicao": "Uso narrativo do conceito 'Criar'",
+                    "timestamp": "2025-08-05T20:52:05.749653",
+                    "contexto": "Extraído da interação: A minha visão de justiça mudou depois de ouvir out..."
+                }
+            ],
+            "contexto": [
+                "Extraído da interação: A injustiça surge quando ignoramos a história dos ...",
+                "Extraído da interação: Revi episódios em que fui imparcial, e senti contr...",
+                "Extraído da interação: A minha visão de justiça mudou depois de ouvir out..."
+            ],
+            "id": "Criar"
+        },
+        {
+            "historico": [
+                {
+                    "definicao": "Uso narrativo do conceito 'Extender'",
+                    "timestamp": "2025-08-05T20:42:02.142494",
+                    "contexto": "Extraído da interação: A injustiça surge quando ignoramos a história dos ..."
+                },
+                {
+                    "definicao": "Uso narrativo do conceito 'Extender'",
+                    "timestamp": "2025-08-05T20:52:05.751806",
+                    "contexto": "Extraído da interação: A minha visão de justiça mudou depois de ouvir out..."
+                }
+            ],
+            "contexto": [
+                "Extraído da interação: A injustiça surge quando ignoramos a história dos ...",
+                "Extraído da interação: A minha visão de justiça mudou depois de ouvir out..."
+            ],
+            "id": "Extender"
+        },
+        {
+            "historico": [
+                {
+                    "definicao": "Uso narrativo do conceito 'She'",
+                    "timestamp": "2025-08-05T20:42:02.143431",
+                    "contexto": "Extraído da interação: A injustiça surge quando ignoramos a história dos ..."
+                },
+                {
+                    "definicao": "Uso narrativo do conceito 'She'",
+                    "timestamp": "2025-08-05T20:46:51.890509",
+                    "contexto": "Extraído da interação: Revi episódios em que fui imparcial, e senti contr..."
+                },
+                {
+                    "definicao": "Uso narrativo do conceito 'She'",
+                    "timestamp": "2025-08-05T20:52:05.711373",
+                    "contexto": "Extraído da interação: A minha visão de justiça mudou depois de ouvir out..."
+                }
+            ],
+            "contexto": [
+                "Extraído da interação: A injustiça surge quando ignoramos a história dos ...",
+                "Extraído da interação: Revi episódios em que fui imparcial, e senti contr...",
+                "Extraído da interação: A minha visão de justiça mudou depois de ouvir out..."
+            ],
+            "id": "She"
+        },
+        {
+            "historico": [
+                {
+                    "definicao": "Uso narrativo do conceito 'Nuevo'",
+                    "timestamp": "2025-08-05T20:42:02.144399",
+                    "contexto": "Extraído da interação: A injustiça surge quando ignoramos a história dos ..."
+                },
+                {
+                    "definicao": "Uso narrativo do conceito 'Nuevo'",
+                    "timestamp": "2025-08-05T20:52:05.755856",
+                    "contexto": "Extraído da interação: A minha visão de justiça mudou depois de ouvir out..."
+                }
+            ],
+            "contexto": [
+                "Extraído da interação: A injustiça surge quando ignoramos a história dos ...",
+                "Extraído da interação: A minha visão de justiça mudou depois de ouvir out..."
+            ],
+            "id": "Nuevo"
+        },
+        {
+            "historico": [
+                {
+                    "definicao": "Uso narrativo do conceito 'Conceitos'",
+                    "timestamp": "2025-08-05T20:42:02.145376",
+                    "contexto": "Extraído da interação: A injustiça surge quando ignoramos a história dos ..."
+                },
+                {
+                    "definicao": "Uso narrativo do conceito 'Conceitos'",
+                    "timestamp": "2025-08-05T20:52:05.713182",
+                    "contexto": "Extraído da interação: A minha visão de justiça mudou depois de ouvir out..."
+                }
+            ],
+            "contexto": [
+                "Extraído da interação: A injustiça surge quando ignoramos a história dos ...",
+                "Extraído da interação: A minha visão de justiça mudou depois de ouvir out..."
+            ],
+            "id": "Conceitos"
+        },
+        {
+            "historico": [
+                {
+                    "definicao": "Uso narrativo do conceito 'Injustiça'",
+                    "timestamp": "2025-08-05T20:42:02.146403",
+                    "contexto": "Extraído da interação: A injustiça surge quando ignoramos a história dos ..."
+                },
+                {
+                    "definicao": "Uso narrativo do conceito 'Injustiça'",
+                    "timestamp": "2025-08-05T20:52:05.681842",
+                    "contexto": "Extraído da interação: A minha visão de justiça mudou depois de ouvir out..."
+                }
+            ],
+            "contexto": [
+                "Extraído da interação: A injustiça surge quando ignoramos a história dos ...",
+                "Extraído da interação: A minha visão de justiça mudou depois de ouvir out..."
+            ],
+            "id": "Injustiça"
+        },
+        {
+            "historico": [
+                {
+                    "definicao": "Uso narrativo do conceito 'Collective'",
+                    "timestamp": "2025-08-05T20:42:02.148455",
+                    "contexto": "Extraído da interação: A injustiça surge quando ignoramos a história dos ..."
+                },
+                {
+                    "definicao": "Uso narrativo do conceito 'Collective'",
+                    "timestamp": "2025-08-05T20:52:05.764126",
+                    "contexto": "Extraído da interação: A minha visão de justiça mudou depois de ouvir out..."
+                }
+            ],
+            "contexto": [
+                "Extraído da interação: A injustiça surge quando ignoramos a história dos ...",
+                "Extraído da interação: A minha visão de justiça mudou depois de ouvir out..."
+            ],
+            "id": "Collective"
+        },
+        {
+            "historico": [
+                {
+                    "definicao": "Uso narrativo do conceito 'Suddenly'",
+                    "timestamp": "2025-08-05T20:42:02.149509",
+                    "contexto": "Extraído da interação: A injustiça surge quando ignoramos a história dos ..."
+                },
+                {
+                    "definicao": "Uso narrativo do conceito 'Suddenly'",
+                    "timestamp": "2025-08-05T20:52:05.766188",
+                    "contexto": "Extraído da interação: A minha visão de justiça mudou depois de ouvir out..."
+                }
+            ],
+            "contexto": [
+                "Extraído da interação: A injustiça surge quando ignoramos a história dos ...",
+                "Extraído da interação: A minha visão de justiça mudou depois de ouvir out..."
+            ],
+            "id": "Suddenly"
+        },
+        {
+            "historico": [
+                {
+                    "definicao": "Uso narrativo do conceito 'Reconhecer'",
+                    "timestamp": "2025-08-05T20:42:02.150566",
+                    "contexto": "Extraído da interação: A injustiça surge quando ignoramos a história dos ..."
+                },
+                {
+                    "definicao": "Uso narrativo do conceito 'Reconhecer'",
+                    "timestamp": "2025-08-05T20:52:05.826000",
+                    "contexto": "Extraído da interação: A minha visão de justiça mudou depois de ouvir out..."
+                }
+            ],
+            "contexto": [
+                "Extraído da interação: A injustiça surge quando ignoramos a história dos ...",
+                "Extraído da interação: A minha visão de justiça mudou depois de ouvir out..."
+            ],
+            "id": "Reconhecer"
+        },
+        {
+            "historico": [
+                {
+                    "definicao": "Uso narrativo do conceito 'These'",
+                    "timestamp": "2025-08-05T20:42:02.151633",
+                    "contexto": "Extraído da interação: A injustiça surge quando ignoramos a história dos ..."
+                },
+                {
+                    "definicao": "Uso narrativo do conceito 'These'",
+                    "timestamp": "2025-08-05T20:52:05.828317",
+                    "contexto": "Extraído da interação: A minha visão de justiça mudou depois de ouvir out..."
+                }
+            ],
+            "contexto": [
+                "Extraído da interação: A injustiça surge quando ignoramos a história dos ...",
+                "Extraído da interação: A minha visão de justiça mudou depois de ouvir out..."
+            ],
+            "id": "These"
+        },
+        {
+            "historico": [
+                {
+                    "definicao": "Uso narrativo do conceito 'Inspire'",
+                    "timestamp": "2025-08-05T20:42:02.152705",
+                    "contexto": "Extraído da interação: A injustiça surge quando ignoramos a história dos ..."
+                },
+                {
+                    "definicao": "Uso narrativo do conceito 'Inspire'",
+                    "timestamp": "2025-08-05T20:52:05.830644",
+                    "contexto": "Extraído da interação: A minha visão de justiça mudou depois de ouvir out..."
+                }
+            ],
+            "contexto": [
+                "Extraído da interação: A injustiça surge quando ignoramos a história dos ...",
+                "Extraído da interação: A minha visão de justiça mudou depois de ouvir out..."
+            ],
+            "id": "Inspire"
+        },
+        {
+            "historico": [
+                {
+                    "definicao": "Uso narrativo do conceito 'Growth'",
+                    "timestamp": "2025-08-05T20:46:51.854595",
+                    "contexto": "Extraído da interação: Revi episódios em que fui imparcial, e senti contr..."
+                },
+                {
+                    "definicao": "Uso narrativo do conceito 'Growth'",
+                    "timestamp": "2025-08-05T20:52:05.693634",
+                    "contexto": "Extraído da interação: A minha visão de justiça mudou depois de ouvir out..."
+                }
+            ],
+            "contexto": [
+                "Extraído da interação: Revi episódios em que fui imparcial, e senti contr...",
+                "Extraído da interação: A minha visão de justiça mudou depois de ouvir out..."
+            ],
+            "id": "Growth"
+        },
+        {
+            "historico": [
+                {
+                    "definicao": "Uso narrativo do conceito 'Seeking'",
+                    "timestamp": "2025-08-05T20:46:51.855743",
+                    "contexto": "Extraído da interação: Revi episódios em que fui imparcial, e senti contr..."
+                },
+                {
+                    "definicao": "Uso narrativo do conceito 'Seeking'",
+                    "timestamp": "2025-08-05T20:52:05.726205",
+                    "contexto": "Extraído da interação: A minha visão de justiça mudou depois de ouvir out..."
+                }
+            ],
+            "contexto": [
+                "Extraído da interação: Revi episódios em que fui imparcial, e senti contr...",
+                "Extraído da interação: A minha visão de justiça mudou depois de ouvir out..."
+            ],
+            "id": "Seeking"
+        },
+        {
+            "historico": [
+                {
+                    "definicao": "Uso narrativo do conceito 'Interação'",
+                    "timestamp": "2025-08-05T20:46:51.856897",
+                    "contexto": "Extraído da interação: Revi episódios em que fui imparcial, e senti contr..."
+                },
+                {
+                    "definicao": "Uso narrativo do conceito 'Interação'",
+                    "timestamp": "2025-08-05T20:52:05.672146",
+                    "contexto": "Extraído da interação: A minha visão de justiça mudou depois de ouvir out..."
+                }
+            ],
+            "contexto": [
+                "Extraído da interação: Revi episódios em que fui imparcial, e senti contr...",
+                "Extraído da interação: A minha visão de justiça mudou depois de ouvir out..."
+            ],
+            "id": "Interação"
+        },
+        {
+            "historico": [
+                {
+                    "definicao": "Uso narrativo do conceito 'Sociedade'",
+                    "timestamp": "2025-08-05T20:46:51.860447",
+                    "contexto": "Extraído da interação: Revi episódios em que fui imparcial, e senti contr..."
+                },
+                {
+                    "definicao": "Uso narrativo do conceito 'Sociedade'",
+                    "timestamp": "2025-08-05T20:52:05.732024",
+                    "contexto": "Extraído da interação: A minha visão de justiça mudou depois de ouvir out..."
+                }
+            ],
+            "contexto": [
+                "Extraído da interação: Revi episódios em que fui imparcial, e senti contr...",
+                "Extraído da interação: A minha visão de justiça mudou depois de ouvir out..."
+            ],
+            "id": "Sociedade"
+        },
+        {
+            "historico": [
+                {
+                    "definicao": "Uso narrativo do conceito 'Community'",
+                    "timestamp": "2025-08-05T20:46:51.861648",
+                    "contexto": "Extraído da interação: Revi episódios em que fui imparcial, e senti contr..."
+                },
+                {
+                    "definicao": "Uso narrativo do conceito 'Community'",
+                    "timestamp": "2025-08-05T20:52:05.791938",
+                    "contexto": "Extraído da interação: A minha visão de justiça mudou depois de ouvir out..."
+                }
+            ],
+            "contexto": [
+                "Extraído da interação: Revi episódios em que fui imparcial, e senti contr...",
+                "Extraído da interação: A minha visão de justiça mudou depois de ouvir out..."
+            ],
+            "id": "Community"
+        },
+        {
+            "historico": [
+                {
+                    "definicao": "Uso narrativo do conceito 'Concepts'",
+                    "timestamp": "2025-08-05T20:46:51.865397",
+                    "contexto": "Extraído da interação: Revi episódios em que fui imparcial, e senti contr..."
+                },
+                {
+                    "definicao": "Uso narrativo do conceito 'Concepts'",
+                    "timestamp": "2025-08-05T20:52:05.735896",
+                    "contexto": "Extraído da interação: A minha visão de justiça mudou depois de ouvir out..."
+                }
+            ],
+            "contexto": [
+                "Extraído da interação: Revi episódios em que fui imparcial, e senti contr...",
+                "Extraído da interação: A minha visão de justiça mudou depois de ouvir out..."
+            ],
+            "id": "Concepts"
+        },
+        {
+            "historico": [
+                {
+                    "definicao": "Uso narrativo do conceito 'Actions'",
+                    "timestamp": "2025-08-05T20:46:51.866624",
+                    "contexto": "Extraído da interação: Revi episódios em que fui imparcial, e senti contr..."
+                },
+                {
+                    "definicao": "Uso narrativo do conceito 'Actions'",
+                    "timestamp": "2025-08-05T20:52:05.675317",
+                    "contexto": "Extraído da interação: A minha visão de justiça mudou depois de ouvir out..."
+                }
+            ],
+            "contexto": [
+                "Extraído da interação: Revi episódios em que fui imparcial, e senti contr...",
+                "Extraído da interação: A minha visão de justiça mudou depois de ouvir out..."
+            ],
+            "id": "Actions"
+        },
+        {
+            "historico": [
+                {
+                    "definicao": "Uso narrativo do conceito 'Equity'",
+                    "timestamp": "2025-08-05T20:46:51.869189",
+                    "contexto": "Extraído da interação: Revi episódios em que fui imparcial, e senti contr..."
+                },
+                {
+                    "definicao": "Uso narrativo do conceito 'Equity'",
+                    "timestamp": "2025-08-05T20:52:05.803051",
+                    "contexto": "Extraído da interação: A minha visão de justiça mudou depois de ouvir out..."
+                }
+            ],
+            "contexto": [
+                "Extraído da interação: Revi episódios em que fui imparcial, e senti contr...",
+                "Extraído da interação: A minha visão de justiça mudou depois de ouvir out..."
+            ],
+            "id": "Equity"
+        },
+        {
+            "historico": [
+                {
+                    "definicao": "Uso narrativo do conceito 'Fairness'",
+                    "timestamp": "2025-08-05T20:46:51.870502",
+                    "contexto": "Extraído da interação: Revi episódios em que fui imparcial, e senti contr..."
+                },
+                {
+                    "definicao": "Uso narrativo do conceito 'Fairness'",
+                    "timestamp": "2025-08-05T20:52:05.700591",
+                    "contexto": "Extraído da interação: A minha visão de justiça mudou depois de ouvir out..."
+                }
+            ],
+            "contexto": [
+                "Extraído da interação: Revi episódios em que fui imparcial, e senti contr...",
+                "Extraído da interação: A minha visão de justiça mudou depois de ouvir out..."
+            ],
+            "id": "Fairness"
+        },
+        {
+            "historico": [
+                {
+                    "definicao": "Uso narrativo do conceito 'Equitatividade'",
+                    "timestamp": "2025-08-05T20:46:51.871824",
+                    "contexto": "Extraído da interação: Revi episódios em que fui imparcial, e senti contr..."
+                },
+                {
+                    "definicao": "Uso narrativo do conceito 'Equitatividade'",
+                    "timestamp": "2025-08-05T20:52:05.805288",
+                    "contexto": "Extraído da interação: A minha visão de justiça mudou depois de ouvir out..."
+                }
+            ],
+            "contexto": [
+                "Extraído da interação: Revi episódios em que fui imparcial, e senti contr...",
+                "Extraído da interação: A minha visão de justiça mudou depois de ouvir out..."
+            ],
+            "id": "Equitatividade"
+        },
+        {
+            "historico": [
+                {
+                    "definicao": "Uso narrativo do conceito 'Harm'",
+                    "timestamp": "2025-08-05T20:46:51.873159",
+                    "contexto": "Extraído da interação: Revi episódios em que fui imparcial, e senti contr..."
+                },
+                {
+                    "definicao": "Uso narrativo do conceito 'Harm'",
+                    "timestamp": "2025-08-05T20:52:05.676907",
+                    "contexto": "Extraído da interação: A minha visão de justiça mudou depois de ouvir out..."
+                }
+            ],
+            "contexto": [
+                "Extraído da interação: Revi episódios em que fui imparcial, e senti contr...",
+                "Extraído da interação: A minha visão de justiça mudou depois de ouvir out..."
+            ],
+            "id": "Harm"
+        },
+        {
+            "historico": [
+                {
+                    "definicao": "Uso narrativo do conceito 'Comportamento'",
+                    "timestamp": "2025-08-05T20:46:51.875853",
+                    "contexto": "Extraído da interação: Revi episódios em que fui imparcial, e senti contr..."
+                },
+                {
+                    "definicao": "Uso narrativo do conceito 'Comportamento'",
+                    "timestamp": "2025-08-05T20:52:05.678546",
+                    "contexto": "Extraído da interação: A minha visão de justiça mudou depois de ouvir out..."
+                }
+            ],
+            "contexto": [
+                "Extraído da interação: Revi episódios em que fui imparcial, e senti contr...",
+                "Extraído da interação: A minha visão de justiça mudou depois de ouvir out..."
+            ],
+            "id": "Comportamento"
+        },
+        {
+            "historico": [
+                {
+                    "definicao": "Uso narrativo do conceito 'Reflectir'",
+                    "timestamp": "2025-08-05T20:46:51.877252",
+                    "contexto": "Extraído da interação: Revi episódios em que fui imparcial, e senti contr..."
+                },
+                {
+                    "definicao": "Uso narrativo do conceito 'Reflectir'",
+                    "timestamp": "2025-08-05T20:52:05.812134",
+                    "contexto": "Extraído da interação: A minha visão de justiça mudou depois de ouvir out..."
+                }
+            ],
+            "contexto": [
+                "Extraído da interação: Revi episódios em que fui imparcial, e senti contr...",
+                "Extraído da interação: A minha visão de justiça mudou depois de ouvir out..."
+            ],
+            "id": "Reflectir"
+        },
+        {
+            "historico": [
+                {
+                    "definicao": "Uso narrativo do conceito 'Accountability'",
+                    "timestamp": "2025-08-05T20:46:51.880029",
+                    "contexto": "Extraído da interação: Revi episódios em que fui imparcial, e senti contr..."
+                },
+                {
+                    "definicao": "Uso narrativo do conceito 'Accountability'",
+                    "timestamp": "2025-08-05T20:52:05.814432",
+                    "contexto": "Extraído da interação: A minha visão de justiça mudou depois de ouvir out..."
+                }
+            ],
+            "contexto": [
+                "Extraído da interação: Revi episódios em que fui imparcial, e senti contr...",
+                "Extraído da interação: A minha visão de justiça mudou depois de ouvir out..."
+            ],
+            "id": "Accountability"
+        },
+        {
+            "historico": [
+                {
+                    "definicao": "Uso narrativo do conceito 'Justice'",
+                    "timestamp": "2025-08-05T20:46:51.881508",
+                    "contexto": "Extraído da interação: Revi episódios em que fui imparcial, e senti contr..."
+                },
+                {
+                    "definicao": "Uso narrativo do conceito 'Justice'",
+                    "timestamp": "2025-08-05T20:52:05.739771",
+                    "contexto": "Extraído da interação: A minha visão de justiça mudou depois de ouvir out..."
+                }
+            ],
+            "contexto": [
+                "Extraído da interação: Revi episódios em que fui imparcial, e senti contr...",
+                "Extraído da interação: A minha visão de justiça mudou depois de ouvir out..."
+            ],
+            "id": "Justice"
+        },
+        {
+            "historico": [
+                {
+                    "definicao": "Uso narrativo do conceito 'Wellbeing'",
+                    "timestamp": "2025-08-05T20:46:51.884602",
+                    "contexto": "Extraído da interação: Revi episódios em que fui imparcial, e senti contr..."
+                },
+                {
+                    "definicao": "Uso narrativo do conceito 'Wellbeing'",
+                    "timestamp": "2025-08-05T20:52:05.743714",
+                    "contexto": "Extraído da interação: A minha visão de justiça mudou depois de ouvir out..."
+                }
+            ],
+            "contexto": [
+                "Extraído da interação: Revi episódios em que fui imparcial, e senti contr...",
+                "Extraído da interação: A minha visão de justiça mudou depois de ouvir out..."
+            ],
+            "id": "Wellbeing"
+        },
+        {
+            "historico": [
+                {
+                    "definicao": "Uso narrativo do conceito 'Revi'",
+                    "timestamp": "2025-08-05T20:46:51.891996",
+                    "contexto": "Extraído da interação: Revi episódios em que fui imparcial, e senti contr..."
+                },
+                {
+                    "definicao": "Uso narrativo do conceito 'Revi'",
+                    "timestamp": "2025-08-05T20:52:05.757911",
+                    "contexto": "Extraído da interação: A minha visão de justiça mudou depois de ouvir out..."
+                }
+            ],
+            "contexto": [
+                "Extraído da interação: Revi episódios em que fui imparcial, e senti contr...",
+                "Extraído da interação: A minha visão de justiça mudou depois de ouvir out..."
+            ],
+            "id": "Revi"
+        },
+        {
+            "historico": [
+                {
+                    "definicao": "Uso narrativo do conceito 'Reflecting'",
+                    "timestamp": "2025-08-05T20:46:51.895025",
+                    "contexto": "Extraído da interação: Revi episódios em que fui imparcial, e senti contr..."
+                },
+                {
+                    "definicao": "Uso narrativo do conceito 'Reflecting'",
+                    "timestamp": "2025-08-05T20:52:05.762037",
+                    "contexto": "Extraído da interação: A minha visão de justiça mudou depois de ouvir out..."
+                }
+            ],
+            "contexto": [
+                "Extraído da interação: Revi episódios em que fui imparcial, e senti contr...",
+                "Extraído da interação: A minha visão de justiça mudou depois de ouvir out..."
+            ],
+            "id": "Reflecting"
+        },
+        {
+            "historico": [
+                {
+                    "definicao": "Uso narrativo do conceito 'Ação'",
+                    "timestamp": "2025-08-05T20:46:51.898152",
+                    "contexto": "Extraído da interação: Revi episódios em que fui imparcial, e senti contr..."
+                },
+                {
+                    "definicao": "Uso narrativo do conceito 'Ação'",
+                    "timestamp": "2025-08-05T20:52:05.718663",
+                    "contexto": "Extraído da interação: A minha visão de justiça mudou depois de ouvir out..."
+                }
+            ],
+            "contexto": [
+                "Extraído da interação: Revi episódios em que fui imparcial, e senti contr...",
+                "Extraído da interação: A minha visão de justiça mudou depois de ouvir out..."
+            ],
+            "id": "Ação"
+        },
+        {
+            "historico": [
+                {
+                    "definicao": "Uso narrativo do conceito 'Commitment'",
+                    "timestamp": "2025-08-05T20:46:51.899716",
+                    "contexto": "Extraído da interação: Revi episódios em que fui imparcial, e senti contr..."
+                },
+                {
+                    "definicao": "Uso narrativo do conceito 'Commitment'",
+                    "timestamp": "2025-08-05T20:52:05.778944",
+                    "contexto": "Extraído da interação: A minha visão de justiça mudou depois de ouvir out..."
+                }
+            ],
+            "contexto": [
+                "Extraído da interação: Revi episódios em que fui imparcial, e senti contr...",
+                "Extraído da interação: A minha visão de justiça mudou depois de ouvir out..."
+            ],
+            "id": "Commitment"
+        },
+        {
+            "historico": [
+                {
+                    "definicao": "Uso narrativo do conceito 'Conceptual'",
+                    "timestamp": "2025-08-05T20:46:51.901305",
+                    "contexto": "Extraído da interação: Revi episódios em que fui imparcial, e senti contr..."
+                },
+                {
+                    "definicao": "Uso narrativo do conceito 'Conceptual'",
+                    "timestamp": "2025-08-05T20:52:05.781108",
+                    "contexto": "Extraído da interação: A minha visão de justiça mudou depois de ouvir out..."
+                }
+            ],
+            "contexto": [
+                "Extraído da interação: Revi episódios em que fui imparcial, e senti contr...",
+                "Extraído da interação: A minha visão de justiça mudou depois de ouvir out..."
+            ],
+            "id": "Conceptual"
+        },
+        {
+            "historico": [
+                {
+                    "definicao": "Uso narrativo do conceito 'Refletir'",
+                    "timestamp": "2025-08-05T20:52:05.667318",
+                    "contexto": "Extraído da interação: A minha visão de justiça mudou depois de ouvir out..."
+                }
+            ],
+            "contexto": [
+                "Extraído da interação: A minha visão de justiça mudou depois de ouvir out..."
+            ],
+            "id": "Refletir"
+        },
+        {
+            "historico": [
+                {
+                    "definicao": "Uso narrativo do conceito 'Conexão'",
+                    "timestamp": "2025-08-05T20:52:05.688456",
+                    "contexto": "Extraído da interação: A minha visão de justiça mudou depois de ouvir out..."
+                }
+            ],
+            "contexto": [
+                "Extraído da interação: A minha visão de justiça mudou depois de ouvir out..."
+            ],
+            "id": "Conexão"
+        },
+        {
+            "historico": [
+                {
+                    "definicao": "Uso narrativo do conceito 'Empathy'",
+                    "timestamp": "2025-08-05T20:52:05.691876",
+                    "contexto": "Extraído da interação: A minha visão de justiça mudou depois de ouvir out..."
+                }
+            ],
+            "contexto": [
+                "Extraído da interação: A minha visão de justiça mudou depois de ouvir out..."
+            ],
+            "id": "Empathy"
+        },
+        {
+            "historico": [
+                {
+                    "definicao": "Uso narrativo do conceito 'Compreender'",
+                    "timestamp": "2025-08-05T20:52:05.714988",
+                    "contexto": "Extraído da interação: A minha visão de justiça mudou depois de ouvir out..."
+                }
+            ],
+            "contexto": [
+                "Extraído da interação: A minha visão de justiça mudou depois de ouvir out..."
+            ],
+            "id": "Compreender"
+        },
+        {
+            "historico": [
+                {
+                    "definicao": "Uso narrativo do conceito 'Empatia'",
+                    "timestamp": "2025-08-05T20:52:05.720508",
+                    "contexto": "Extraído da interação: A minha visão de justiça mudou depois de ouvir out..."
+                }
+            ],
+            "contexto": [
+                "Extraído da interação: A minha visão de justiça mudou depois de ouvir out..."
+            ],
+            "id": "Empatia"
+        },
+        {
+            "historico": [
+                {
+                    "definicao": "Uso narrativo do conceito 'Understanding'",
+                    "timestamp": "2025-08-05T20:52:05.724275",
+                    "contexto": "Extraído da interação: A minha visão de justiça mudou depois de ouvir out..."
+                }
+            ],
+            "contexto": [
+                "Extraído da interação: A minha visão de justiça mudou depois de ouvir out..."
+            ],
+            "id": "Understanding"
+        },
+        {
+            "historico": [
+                {
+                    "definicao": "Uso narrativo do conceito 'Bias'",
+                    "timestamp": "2025-08-05T20:52:05.741743",
+                    "contexto": "Extraído da interação: A minha visão de justiça mudou depois de ouvir out..."
+                }
+            ],
+            "contexto": [
+                "Extraído da interação: A minha visão de justiça mudou depois de ouvir out..."
+            ],
+            "id": "Bias"
+        },
+        {
+            "historico": [
+                {
+                    "definicao": "Uso narrativo do conceito 'Fostering'",
+                    "timestamp": "2025-08-05T20:52:05.768290",
+                    "contexto": "Extraído da interação: A minha visão de justiça mudou depois de ouvir out..."
+                }
+            ],
+            "contexto": [
+                "Extraído da interação: A minha visão de justiça mudou depois de ouvir out..."
+            ],
+            "id": "Fostering"
+        },
+        {
+            "historico": [
+                {
+                    "definicao": "Uso narrativo do conceito 'Open'",
+                    "timestamp": "2025-08-05T20:52:05.770413",
+                    "contexto": "Extraído da interação: A minha visão de justiça mudou depois de ouvir out..."
+                }
+            ],
+            "contexto": [
+                "Extraído da interação: A minha visão de justiça mudou depois de ouvir out..."
+            ],
+            "id": "Open"
+        },
+        {
+            "historico": [
+                {
+                    "definicao": "Uso narrativo do conceito 'Conversações'",
+                    "timestamp": "2025-08-05T20:52:05.774643",
+                    "contexto": "Extraído da interação: A minha visão de justiça mudou depois de ouvir out..."
+                }
+            ],
+            "contexto": [
+                "Extraído da interação: A minha visão de justiça mudou depois de ouvir out..."
+            ],
+            "id": "Conversações"
+        },
+        {
+            "historico": [
+                {
+                    "definicao": "Uso narrativo do conceito 'Questões'",
+                    "timestamp": "2025-08-05T20:52:05.776793",
+                    "contexto": "Extraído da interação: A minha visão de justiça mudou depois de ouvir out..."
+                }
+            ],
+            "contexto": [
+                "Extraído da interação: A minha visão de justiça mudou depois de ouvir out..."
+            ],
+            "id": "Questões"
+        },
+        {
+            "historico": [
+                {
+                    "definicao": "Uso narrativo do conceito 'Prejudício'",
+                    "timestamp": "2025-08-05T20:52:05.785411",
+                    "contexto": "Extraído da interação: A minha visão de justiça mudou depois de ouvir out..."
+                }
+            ],
+            "contexto": [
+                "Extraído da interação: A minha visão de justiça mudou depois de ouvir out..."
+            ],
+            "id": "Prejudício"
+        },
+        {
+            "historico": [
+                {
+                    "definicao": "Uso narrativo do conceito 'Justiça'",
+                    "timestamp": "2025-08-05T20:52:05.787577",
+                    "contexto": "Extraído da interação: A minha visão de justiça mudou depois de ouvir out..."
+                }
+            ],
+            "contexto": [
+                "Extraído da interação: A minha visão de justiça mudou depois de ouvir out..."
+            ],
+            "id": "Justiça"
+        },
+        {
+            "historico": [
+                {
+                    "definicao": "Uso narrativo do conceito 'Listening'",
+                    "timestamp": "2025-08-05T20:52:05.796345",
+                    "contexto": "Extraído da interação: A minha visão de justiça mudou depois de ouvir out..."
+                }
+            ],
+            "contexto": [
+                "Extraído da interação: A minha visão de justiça mudou depois de ouvir out..."
+            ],
+            "id": "Listening"
+        },
+        {
+            "historico": [
+                {
+                    "definicao": "Uso narrativo do conceito 'Preconceito'",
+                    "timestamp": "2025-08-05T20:52:05.807554",
+                    "contexto": "Extraído da interação: A minha visão de justiça mudou depois de ouvir out..."
+                }
+            ],
+            "contexto": [
+                "Extraído da interação: A minha visão de justiça mudou depois de ouvir out..."
+            ],
+            "id": "Preconceito"
+        },
+        {
+            "historico": [
+                {
+                    "definicao": "Uso narrativo do conceito 'Beliefs'",
+                    "timestamp": "2025-08-05T20:52:05.818994",
+                    "contexto": "Extraído da interação: A minha visão de justiça mudou depois de ouvir out..."
+                }
+            ],
+            "contexto": [
+                "Extraído da interação: A minha visão de justiça mudou depois de ouvir out..."
+            ],
+            "id": "Beliefs"
+        },
+        {
+            "historico": [
+                {
+                    "definicao": "Uso narrativo do conceito 'Actively'",
+                    "timestamp": "2025-08-05T20:52:05.823689",
+                    "contexto": "Extraído da interação: A minha visão de justiça mudou depois de ouvir out..."
+                }
+            ],
+            "contexto": [
+                "Extraído da interação: A minha visão de justiça mudou depois de ouvir out..."
+            ],
+            "id": "Actively"
+        }
+    ],
     "links": []
 }
