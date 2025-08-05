@@ -1,6 +1,7 @@
 import networkx as nx
 import json
 from datetime import datetime
+import os
 
 class GrafoConceitual:
     def __init__(self):
@@ -29,11 +30,20 @@ class GrafoConceitual:
             json.dump(data, f, indent=4)
 
     def carregar_de_json(self, caminho):
+        if not os.path.exists(caminho):
+            self.grafo = nx.DiGraph()
+            return
         try:
             with open(caminho, 'r', encoding='utf-8') as f:
                 data = json.load(f)
-                self.grafo = nx.node_link_graph(data)
-        except FileNotFoundError:
+                if "nodes" in data and "links" in data:
+                    self.grafo = nx.node_link_graph(data, directed=True, multigraph=False, edges="links")
+                else:
+                    # estrutura inválida → criar grafo vazio
+                    print("Aviso: esquema.json com estrutura inválida. Criado grafo novo.")
+                    self.grafo = nx.DiGraph()
+        except Exception as e:
+            print(f"Erro ao carregar esquema conceitual: {e}")
             self.grafo = nx.DiGraph()
 
     def obter_conceitos(self):
