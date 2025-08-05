@@ -44,7 +44,7 @@ class IdentidadeNarrativa:
 
     def guardar(self):
         with open(CAMINHO_IDENTIDADE, "w", encoding="utf-8") as f:
-            json.dump(self.perfil, f, indent=4)
+            json.dump(self.perfil, f, indent=4, ensure_ascii=False)
 
     def carregar(self):
         try:

@@ -27,7 +27,7 @@ class MemoriaNarrativa:
 
     def guardar(self):
         with open(CAMINHO_MEMORIA, "w", encoding="utf-8") as f:
-            json.dump(self.eventos, f, indent=4)
+            json.dump(self.eventos, f, indent=4, ensure_ascii=False)
 
     def carregar(self):
         try:
