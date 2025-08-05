@@ -1,8 +1,12 @@
 Protótipo de Agente Narrativo com Ética Emergente
 
 O propósito deste projeto é desenvolver um modelo experimental de um agente artificial narrativo, inspirado fundamentalmente, na filosofia de Paul Ricoeur e Donald Davidson, com aplicação prática em cognição, ética e política.
+
 A narrativa pode ser definida como um processo cognitivo de criação de significado, onde a narrativa representa o ato mental de dar sentido ao mundo. Portanto, não procuramos um agente funcional para tarefas específicas, mas um modelo epistémico e ético que simula um “eu” que se constitui narrativamente. A sua identidade, valores e esquemas conceptuais emergem através de interações linguísticas ao longo do tempo.
+
 O sistema é construído sobre uma arquitetura modular, e pretende ser um modelo computacional baseado na coerência, redescrição e historicidade, conceitos ausentes na maioria dos modelos baseados em embeddings e promt. Pretende-se estudar como a linguagem pode gerar identidade e simultaneamente redefini-la.
+
 Em vez de regras de filtragem, o agente narrativo desenvolve padrões éticos próprios, coerentes com as suas histórias e interações, permitindo mitigar a previsibilidade e contornabilidade de regras baseadas em filtros, bem como o viés que origina dos dados de treino do LLM. 
+
 O modelo permite testar o impacto das narrativas na identidade e crenças do agente, permite simular casos éticos, como dilemas políticos, polarização e persuasão ideológica. Permitindo, desta forma, avaliar a construção da legitimidade nas democracias contemporâneas.
 Um agente narrativo pode ser base para sistemas autónomos com sentido de história e finalidade, em vez de apenas geração probabilística.
