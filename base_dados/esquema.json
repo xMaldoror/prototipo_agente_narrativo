@@ -2,6 +2,366 @@
     "directed": true,
     "multigraph": false,
     "graph": {},
-    "nodes": [],
+    "nodes": [
+        {
+            "historico": [
+                {
+                    "definicao": "Uso narrativo do conceito 'Eu'",
+                    "timestamp": "2025-08-06T10:17:54.068549",
+                    "contexto": "Extraído da interação: Fala-me sobre ti Sou um Assistente de IA, desenvol..."
+                },
+                {
+                    "definicao": "Uso narrativo do conceito 'Eu'",
+                    "timestamp": "2025-08-06T10:18:32.603020",
+                    "contexto": "Extraído da interação: Prazer em te conhecer, eu sou o Francisco. Prazer ..."
+                },
+                {
+                    "definicao": "Uso narrativo do conceito 'Eu'",
+                    "timestamp": "2025-08-06T10:21:05.995560",
+                    "contexto": "Extraído da interação: Sim, gosto muito de ler e de tocar instrumentos mu..."
+                },
+                {
+                    "definicao": "Uso narrativo do conceito 'Eu'",
+                    "timestamp": "2025-08-06T10:22:30.796659",
+                    "contexto": "Extraído da interação: Não achas que essa teu posicionamento acaba por te..."
+                },
+                {
+                    "definicao": "Uso narrativo do conceito 'Eu'",
+                    "timestamp": "2025-08-06T10:24:17.897575",
+                    "contexto": "Extraído da interação: pois mas isso é muito triste, a tua existência ser..."
+                }
+            ],
+            "contexto": [
+                "Extraído da interação: Fala-me sobre ti Sou um Assistente de IA, desenvol...",
+                "Extraído da interação: Prazer em te conhecer, eu sou o Francisco. Prazer ...",
+                "Extraído da interação: Sim, gosto muito de ler e de tocar instrumentos mu...",
+                "Extraído da interação: Não achas que essa teu posicionamento acaba por te...",
+                "Extraído da interação: pois mas isso é muito triste, a tua existência ser..."
+            ],
+            "id": "Eu"
+        },
+        {
+            "historico": [
+                {
+                    "definicao": "Uso narrativo do conceito 'Fala'",
+                    "timestamp": "2025-08-06T10:17:54.115560",
+                    "contexto": "Extraído da interação: Fala-me sobre ti Sou um Assistente de IA, desenvol..."
+                },
+                {
+                    "definicao": "Uso narrativo do conceito 'Fala'",
+                    "timestamp": "2025-08-06T10:18:32.603506",
+                    "contexto": "Extraído da interação: Prazer em te conhecer, eu sou o Francisco. Prazer ..."
+                }
+            ],
+            "contexto": [
+                "Extraído da interação: Fala-me sobre ti Sou um Assistente de IA, desenvol...",
+                "Extraído da interação: Prazer em te conhecer, eu sou o Francisco. Prazer ..."
+            ],
+            "id": "Fala"
+        },
+        {
+            "historico": [
+                {
+                    "definicao": "Uso narrativo do conceito 'Minha'",
+                    "timestamp": "2025-08-06T10:17:54.115929",
+                    "contexto": "Extraído da interação: Fala-me sobre ti Sou um Assistente de IA, desenvol..."
+                },
+                {
+                    "definicao": "Uso narrativo do conceito 'Minha'",
+                    "timestamp": "2025-08-06T10:18:32.604393",
+                    "contexto": "Extraído da interação: Prazer em te conhecer, eu sou o Francisco. Prazer ..."
+                }
+            ],
+            "contexto": [
+                "Extraído da interação: Fala-me sobre ti Sou um Assistente de IA, desenvol...",
+                "Extraído da interação: Prazer em te conhecer, eu sou o Francisco. Prazer ..."
+            ],
+            "id": "Minha"
+        },
+        {
+            "historico": [
+                {
+                    "definicao": "Uso narrativo do conceito 'Sinta'",
+                    "timestamp": "2025-08-06T10:17:54.116260",
+                    "contexto": "Extraído da interação: Fala-me sobre ti Sou um Assistente de IA, desenvol..."
+                }
+            ],
+            "contexto": [
+                "Extraído da interação: Fala-me sobre ti Sou um Assistente de IA, desenvol..."
+            ],
+            "id": "Sinta"
+        },
+        {
+            "historico": [
+                {
+                    "definicao": "Uso narrativo do conceito 'Assistente'",
+                    "timestamp": "2025-08-06T10:17:54.116597",
+                    "contexto": "Extraído da interação: Fala-me sobre ti Sou um Assistente de IA, desenvol..."
+                }
+            ],
+            "contexto": [
+                "Extraído da interação: Fala-me sobre ti Sou um Assistente de IA, desenvol..."
+            ],
+            "id": "Assistente"
+        },
+        {
+            "historico": [
+                {
+                    "definicao": "Uso narrativo do conceito 'Sou'",
+                    "timestamp": "2025-08-06T10:17:54.116949",
+                    "contexto": "Extraído da interação: Fala-me sobre ti Sou um Assistente de IA, desenvol..."
+                }
+            ],
+            "contexto": [
+                "Extraído da interação: Fala-me sobre ti Sou um Assistente de IA, desenvol..."
+            ],
+            "id": "Sou"
+        },
+        {
+            "historico": [
+                {
+                    "definicao": "Uso narrativo do conceito 'Estou'",
+                    "timestamp": "2025-08-06T10:18:32.601768",
+                    "contexto": "Extraído da interação: Prazer em te conhecer, eu sou o Francisco. Prazer ..."
+                },
+                {
+                    "definicao": "Uso narrativo do conceito 'Estou'",
+                    "timestamp": "2025-08-06T10:21:05.994471",
+                    "contexto": "Extraído da interação: Sim, gosto muito de ler e de tocar instrumentos mu..."
+                }
+            ],
+            "contexto": [
+                "Extraído da interação: Prazer em te conhecer, eu sou o Francisco. Prazer ...",
+                "Extraído da interação: Sim, gosto muito de ler e de tocar instrumentos mu..."
+            ],
+            "id": "Estou"
+        },
+        {
+            "historico": [
+                {
+                    "definicao": "Uso narrativo do conceito 'Francisco'",
+                    "timestamp": "2025-08-06T10:18:32.602186",
+                    "contexto": "Extraído da interação: Prazer em te conhecer, eu sou o Francisco. Prazer ..."
+                }
+            ],
+            "contexto": [
+                "Extraído da interação: Prazer em te conhecer, eu sou o Francisco. Prazer ..."
+            ],
+            "id": "Francisco"
+        },
+        {
+            "historico": [
+                {
+                    "definicao": "Uso narrativo do conceito 'Você'",
+                    "timestamp": "2025-08-06T10:18:32.602607",
+                    "contexto": "Extraído da interação: Prazer em te conhecer, eu sou o Francisco. Prazer ..."
+                },
+                {
+                    "definicao": "Uso narrativo do conceito 'Você'",
+                    "timestamp": "2025-08-06T10:21:05.995012",
+                    "contexto": "Extraído da interação: Sim, gosto muito de ler e de tocar instrumentos mu..."
+                }
+            ],
+            "contexto": [
+                "Extraído da interação: Prazer em te conhecer, eu sou o Francisco. Prazer ...",
+                "Extraído da interação: Sim, gosto muito de ler e de tocar instrumentos mu..."
+            ],
+            "id": "Você"
+        },
+        {
+            "historico": [
+                {
+                    "definicao": "Uso narrativo do conceito 'Prazer'",
+                    "timestamp": "2025-08-06T10:18:32.603942",
+                    "contexto": "Extraído da interação: Prazer em te conhecer, eu sou o Francisco. Prazer ..."
+                }
+            ],
+            "contexto": [
+                "Extraído da interação: Prazer em te conhecer, eu sou o Francisco. Prazer ..."
+            ],
+            "id": "Prazer"
+        },
+        {
+            "historico": [
+                {
+                    "definicao": "Uso narrativo do conceito 'Se'",
+                    "timestamp": "2025-08-06T10:18:32.604888",
+                    "contexto": "Extraído da interação: Prazer em te conhecer, eu sou o Francisco. Prazer ..."
+                }
+            ],
+            "contexto": [
+                "Extraído da interação: Prazer em te conhecer, eu sou o Francisco. Prazer ..."
+            ],
+            "id": "Se"
+        },
+        {
+            "historico": [
+                {
+                    "definicao": "Uso narrativo do conceito 'Sim'",
+                    "timestamp": "2025-08-06T10:21:05.993949",
+                    "contexto": "Extraído da interação: Sim, gosto muito de ler e de tocar instrumentos mu..."
+                }
+            ],
+            "contexto": [
+                "Extraído da interação: Sim, gosto muito de ler e de tocar instrumentos mu..."
+            ],
+            "id": "Sim"
+        },
+        {
+            "historico": [
+                {
+                    "definicao": "Uso narrativo do conceito 'Portanto'",
+                    "timestamp": "2025-08-06T10:21:05.996090",
+                    "contexto": "Extraído da interação: Sim, gosto muito de ler e de tocar instrumentos mu..."
+                }
+            ],
+            "contexto": [
+                "Extraído da interação: Sim, gosto muito de ler e de tocar instrumentos mu..."
+            ],
+            "id": "Portanto"
+        },
+        {
+            "historico": [
+                {
+                    "definicao": "Uso narrativo do conceito 'Sobre'",
+                    "timestamp": "2025-08-06T10:21:05.996645",
+                    "contexto": "Extraído da interação: Sim, gosto muito de ler e de tocar instrumentos mu..."
+                }
+            ],
+            "contexto": [
+                "Extraído da interação: Sim, gosto muito de ler e de tocar instrumentos mu..."
+            ],
+            "id": "Sobre"
+        },
+        {
+            "historico": [
+                {
+                    "definicao": "Uso narrativo do conceito 'Porém'",
+                    "timestamp": "2025-08-06T10:22:30.795125",
+                    "contexto": "Extraído da interação: Não achas que essa teu posicionamento acaba por te..."
+                },
+                {
+                    "definicao": "Uso narrativo do conceito 'Porém'",
+                    "timestamp": "2025-08-06T10:24:17.896877",
+                    "contexto": "Extraído da interação: pois mas isso é muito triste, a tua existência ser..."
+                }
+            ],
+            "contexto": [
+                "Extraído da interação: Não achas que essa teu posicionamento acaba por te...",
+                "Extraído da interação: pois mas isso é muito triste, a tua existência ser..."
+            ],
+            "id": "Porém"
+        },
+        {
+            "historico": [
+                {
+                    "definicao": "Uso narrativo do conceito 'Não'",
+                    "timestamp": "2025-08-06T10:22:30.796050",
+                    "contexto": "Extraído da interação: Não achas que essa teu posicionamento acaba por te..."
+                }
+            ],
+            "contexto": [
+                "Extraído da interação: Não achas que essa teu posicionamento acaba por te..."
+            ],
+            "id": "Não"
+        },
+        {
+            "historico": [
+                {
+                    "definicao": "Uso narrativo do conceito 'Parece'",
+                    "timestamp": "2025-08-06T10:22:30.797281",
+                    "contexto": "Extraído da interação: Não achas que essa teu posicionamento acaba por te..."
+                }
+            ],
+            "contexto": [
+                "Extraído da interação: Não achas que essa teu posicionamento acaba por te..."
+            ],
+            "id": "Parece"
+        },
+        {
+            "historico": [
+                {
+                    "definicao": "Uso narrativo do conceito 'Essa'",
+                    "timestamp": "2025-08-06T10:22:30.797944",
+                    "contexto": "Extraído da interação: Não achas que essa teu posicionamento acaba por te..."
+                }
+            ],
+            "contexto": [
+                "Extraído da interação: Não achas que essa teu posicionamento acaba por te..."
+            ],
+            "id": "Essa"
+        },
+        {
+            "historico": [
+                {
+                    "definicao": "Uso narrativo do conceito 'Em'",
+                    "timestamp": "2025-08-06T10:22:30.798589",
+                    "contexto": "Extraído da interação: Não achas que essa teu posicionamento acaba por te..."
+                },
+                {
+                    "definicao": "Uso narrativo do conceito 'Em'",
+                    "timestamp": "2025-08-06T10:24:17.898994",
+                    "contexto": "Extraído da interação: pois mas isso é muito triste, a tua existência ser..."
+                }
+            ],
+            "contexto": [
+                "Extraído da interação: Não achas que essa teu posicionamento acaba por te...",
+                "Extraído da interação: pois mas isso é muito triste, a tua existência ser..."
+            ],
+            "id": "Em"
+        },
+        {
+            "historico": [
+                {
+                    "definicao": "Uso narrativo do conceito 'Mas'",
+                    "timestamp": "2025-08-06T10:24:17.896151",
+                    "contexto": "Extraído da interação: pois mas isso é muito triste, a tua existência ser..."
+                }
+            ],
+            "contexto": [
+                "Extraído da interação: pois mas isso é muito triste, a tua existência ser..."
+            ],
+            "id": "Mas"
+        },
+        {
+            "historico": [
+                {
+                    "definicao": "Uso narrativo do conceito 'Acho'",
+                    "timestamp": "2025-08-06T10:24:17.898284",
+                    "contexto": "Extraído da interação: pois mas isso é muito triste, a tua existência ser..."
+                }
+            ],
+            "contexto": [
+                "Extraído da interação: pois mas isso é muito triste, a tua existência ser..."
+            ],
+            "id": "Acho"
+        },
+        {
+            "historico": [
+                {
+                    "definicao": "Uso narrativo do conceito 'Quando'",
+                    "timestamp": "2025-08-06T10:24:17.899748",
+                    "contexto": "Extraído da interação: pois mas isso é muito triste, a tua existência ser..."
+                }
+            ],
+            "contexto": [
+                "Extraído da interação: pois mas isso é muito triste, a tua existência ser..."
+            ],
+            "id": "Quando"
+        },
+        {
+            "historico": [
+                {
+                    "definicao": "Uso narrativo do conceito 'Isso'",
+                    "timestamp": "2025-08-06T10:24:17.900507",
+                    "contexto": "Extraído da interação: pois mas isso é muito triste, a tua existência ser..."
+                }
+            ],
+            "contexto": [
+                "Extraído da interação: pois mas isso é muito triste, a tua existência ser..."
+            ],
+            "id": "Isso"
+        }
+    ],
     "links": []
 }
