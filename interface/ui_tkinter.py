@@ -2,6 +2,7 @@ import tkinter as tk
 from tkinter import scrolledtext, messagebox
 from agente_narrativo.modulo_narrativo import AgenteNarrativo
 from analise_dados.modulo_analise_dados import registar_interacao
+from interface.reset_agente import executar_reset
 import os
 
 class InterfaceTkinter:
@@ -39,14 +40,15 @@ class InterfaceTkinter:
     def reiniciar(self):
         resposta = messagebox.askyesno("Reiniciar", "Deseja apagar a memória e reiniciar o agente?")
         if resposta:
-            for ficheiro in ["memoria.json", "esquema.json", "identidade.json"]:
-                caminho = os.path.join("base_dados", ficheiro)
-                try:
-                    os.remove(caminho)
-                except FileNotFoundError:
-                    pass
-            self.texto_display.insert(tk.END, "\n⚠️ Agente reiniciado. Memória apagada.\n\n")
-            self.agente = AgenteNarrativo()
+            try:
+                executar_reset()
+                self.agente = AgenteNarrativo()
+                self.texto_display.delete(1.0, tk.END)  # limpa o display
+                self.texto_display.insert(tk.END, "Agente reiniciado. Memória e cache apagadas.\n\n")
+            except Exception as e:
+                erro = f"[Erro ao reiniciar: {str(e)}]\n"
+                self.texto_display.insert(tk.END, erro)
+                messagebox.showerror("Erro", "Ocorreu um problema ao reiniciar o agente.\n\n" + str(e))
 
     def executar(self):
         self.root.mainloop()
